@@ -1,0 +1,13 @@
+.site-layout-content {
+    background: rgba(187, 187, 187, 0.4);
+    padding: 12px;
+    min-height: 280px;
+    min-width: 280px;
+    align-content: center;
+    align-items: center;
+}
+
+[data-theme="dark"] .site-layout-content {
+    background: #1e0058;
+}
+
